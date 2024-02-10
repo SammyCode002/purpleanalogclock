@@ -26,4 +26,5 @@ setup(): Initializes the sketch window and sets up initial configurations.
 draw(): Contains the main logic to update and display the clock, including drawing the clock face, hands, and numbers.
 drawHand(): Draws the clock hands. Overloaded to allow for different colors.
 drawClockNumbers(): Calculates positions and draws the hour numbers around the clock face.
+
 ![purpleanalogclock](https://github.com/SammyCode002/purpleanalogclock/assets/139438647/c74717e6-107a-4a74-b868-313f6f872faa)
